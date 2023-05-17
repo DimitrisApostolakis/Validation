@@ -1,3 +1,8 @@
+/*
+Author: Dimitris Apostolakis
+Description: Reading a valid integer input from the user.
+*/
+
 import java.util.Scanner;
 
 public class Main {
