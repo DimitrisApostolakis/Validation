@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Validation {
 
     //Validating an integer input without needing to clear the buffer.
